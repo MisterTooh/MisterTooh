@@ -1,3 +1,13 @@
+##  About Me:
+
+- Emirati Student at 42 Abu Dhabi learning Software Development. Well versed in C programming.
+
+- Learning TypeScript, for Nestjs/Expressjs back-end, & C++.
+
+- Interested in CI/CD, Dev Ops, Autonomous Vehicles, Drones Programming & visual recognition Technology. Experienced in High-Stress Environments from previous roles, such as Air Traffic Control Officer.
+
+- I enjoy gaming in my free time to keep my mind active, and I enjoy solving puzzles. I enjoy music production and minimal Graphics design. I am a father to one child, and the fun uncle to a niece and nephew.
+
 ## :camera: Intra Profile
 
 [![hawadh's 42 stats](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/stats?cursusId=21&coalitionId=153)](https://github.com/JaeSeoKim/badge42)
@@ -22,19 +32,7 @@
 |   13   | [**Exam Rank 04**] |             C                   | [![hawadh's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2641462)](https://github.com/JaeSeoKim/badge42)
 |   14   | [**cub3d**]  |                   C                   | [![hawadh's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2641460)](https://github.com/JaeSeoKim/badge42)|
 |   15   | [**CPP00**] |                    C++                 | [![hawadh's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2701677)](https://github.com/JaeSeoKim/badge42)|
-|   16   | [**Netpractice**] |              N/A                 | [![hawadh's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2706008)](https://github.com/JaeSeoKim/badge42)|
-
-
-About Me:
-
-- Emirati Student at 42 Abu Dhabi learning Software Development. Well versed in C programming.
-
-- Learning TypeScript, for Nestjs/Expressjs back-end, & C++.
-
-- Interested in CI/CD, Dev Ops, Autonomous Vehicles, Drones Programming & visual recognition Technology. Experienced in High-Stress Environments from previous roles, such as Air Traffic Control Officer.
-
-- I enjoy gaming in my free time to keep my mind active, and I enjoy solving puzzles. I enjoy music production and minimal Graphics design. I am a father to one child, and the fun uncle to a niece and nephew.
-
+|   16   | [**Netpractice**] |              N/A                 | [![hawadh's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2706008)](https://github.com/JaeSeoKim/badge42)
 
 Uploaded Codes:
 
