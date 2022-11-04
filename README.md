@@ -38,4 +38,4 @@
 |   15   | [**CPP00**] |                    C++                 | [![hawadh's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2701677)](https://github.com/JaeSeoKim/badge42)|
 |   16   | [**Netpractice**] |              N/A                 | [![hawadh's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2706008)](https://github.com/JaeSeoKim/badge42)
 
-All code is placed in a private repository for IPR.
+All code is placed in a private repository for IP.
