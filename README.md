@@ -8,11 +8,12 @@
 
 - I enjoy gaming in my free time to keep my mind active, and I enjoy solving puzzles. I enjoy music production and minimal Graphics design. I am a father to one child, and the fun uncle to a niece and nephew.
 
-## :camera: Intra Profile
+              
 
-[![hawadh's 42 stats](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/stats?cursusId=21&coalitionId=153)](https://github.com/JaeSeoKim/badge42)
-
-![MisterTooh's Codewars Profile](https://www.codewars.com/users/MisterTooh/badges/large)
+## :camera: Profile
+![**linkedin**](https://linkedin-github.herokuapp.com/api/render/Hussain%20Awadh/Software%20Developer/Student/Diploma/dark/https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC4D03AQEWTnrZeQapSQ%2Fprofile-displayphoto-shrink_400_400%2F0%2F1660490709890%3Fe%3D1672876800%26v%3Dbeta%26t%3DETsKIaCZyAm_enIYYgLGJvsPd3jEOdOwFQNa97wNusk)
+<br/>[![hawadh's 42 stats](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/stats?cursusId=21&coalitionId=153)](https://github.com/JaeSeoKim/badge42)
+<br/>![MisterTooh's Codewars Profile](https://www.codewars.com/users/MisterTooh/badges/large)
 
 ##  :notebook_with_decorative_cover: 42 cursus (Sept 26 2021 ~)
 
@@ -37,4 +38,3 @@
 Uploaded Codes:
 
 All Codes Currently Uploaded are for Personal Use.
-
