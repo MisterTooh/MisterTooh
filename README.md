@@ -26,7 +26,7 @@
 |   01   | [**Libft**](https://github.com/MisterTooh/MisterTooh/edit/42-Cursus-Projects/libft)     |               C                |  [![hawadh's 42 Libft Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2354792)](https://github.com/JaeSeoKim/badge42)|
 |   02   | [**get_next_line**](https://github.com/MisterTooh/MisterTooh/edit/42-Cursus-Projects/get_next_line) |               C                | [![hawadh's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2387513)](https://github.com/JaeSeoKim/badge42)|
 |   03   | [**ft_printf**](https://github.com/MisterTooh/MisterTooh/edit/42-Cursus-Projects/ft_printf) |               C                | [![hawadh's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2394315)](https://github.com/JaeSeoKim/badge42)|
-|   05   | [**Born2beroot**] |               N/A                | [![hawadh's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2381156)](https://github.com/JaeSeoKim/badge42)|
+|   05   | [**Born2beroot**] |       System Administration     | [![hawadh's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2381156)](https://github.com/JaeSeoKim/badge42)|
 |   06   | [**Exam Rank 02**] |               C                | [![hawadh's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2402157)](https://github.com/JaeSeoKim/badge42)|
 |   07   | [**Minitalk**](https://github.com/MisterTooh/MisterTooh/edit/42-Cursus-Projects/minitalk)|               C                | [![hawadh's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2402159)](https://github.com/JaeSeoKim/badge42)|
 |   08   | [**FdF**](https://github.com/MisterTooh/MisterTooh/edit/42-Cursus-Projects/fdf) |               C                | [![hawadh's 42 FdF Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2410623)](https://github.com/JaeSeoKim/badge42)|
@@ -37,6 +37,8 @@
 |   13   | [**Exam Rank 04**] |             C                   | [![hawadh's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2641462)](https://github.com/JaeSeoKim/badge42)
 |   14   | [**cub3d**]  |                   C                   | [![hawadh's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2641460)](https://github.com/JaeSeoKim/badge42)|
 |   15   | [**CPP00**] |                    C++                 | [![hawadh's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2701677)](https://github.com/JaeSeoKim/badge42)|
-|   16   | [**Netpractice**] |              N/A                 | [![hawadh's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2706008)](https://github.com/JaeSeoKim/badge42)
+|   16   | [**CPP01**] |                    C++                 | [![hawadh's 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2919750)](https://github.com/JaeSeoKim/badge42)|
+|   17   | [**CPP02**] |                    C++                 | [![hawadh's 42 CPP Module 02 Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2920507)](https://github.com/JaeSeoKim/badge42)|
+|   18   | [**Netpractice**] |           Network/IP             | [![hawadh's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2706008)](https://github.com/JaeSeoKim/badge42)|
 
 All code is placed in a private repository for IP.
