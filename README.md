@@ -41,6 +41,8 @@
 |   17   | [**CPP02**] |                    C++                 | [![hawadh's 42 CPP Module 02 Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2920507)](https://github.com/JaeSeoKim/badge42)|
 |   18   | [**CPP03**] |                    C++                 | [![hawadh's 42 CPP Module 03 Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2924269)](https://github.com/JaeSeoKim/badge42)|
 |   19   | [**CPP04**] |                    C++                 | [![hawadh's 42 CPP Module 04 Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2924638)](https://github.com/JaeSeoKim/badge42)
-|   20   | [**Netpractice**] |           Network/IP             | [![hawadh's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2706008)](https://github.com/JaeSeoKim/badge42)|
+|   20   | [**CPP05**] |                    C++                 | [![hawadh's 42 CPP Module 05 Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2926422)](https://github.com/JaeSeoKim/badge42)|
+|   21   | [**CPP06**] |                    C++                | [![hawadh's 42 CPP Module 06 Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2931805)](https://github.com/JaeSeoKim/badge42)
+|   22   | [**Netpractice**] |           Network/IP             | [![hawadh's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2706008)](https://github.com/JaeSeoKim/badge42)|
 
 All code is placed in a private repository for IP.
