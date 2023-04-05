@@ -11,18 +11,18 @@
 - Looking to gain more experience in a Continuous Integration & Continuous Deployment (CI/CD) Development Operations environment.
 - Won second place in Beacon Red Abu Dhabi Hackathon: "Why is my toaster working like a fridge?" held at 42 Abu Dhabi.
 
-### Contact Me:
+## Contact Me:
 <p>
   <a href="https://www.linkedin.com/in/hawadh-code" rel="nofollow noreferrer">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">&emsp;&emsp;&ensp;&nbsp; LinkedIn
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"> LinkedIn
   </a>
-    <br>
+    &emsp;&emsp;
   <a href="h.awadh.code@gmail.com" rel="nofollow noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">&emsp;&emsp;&emsp;&emsp;&nbsp; E-mail
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"> E-mail
   </a>
-    <br>
+    &emsp;&emsp;
   <a href="https://hawadh.dev" rel="nofollow noreferrer">
-    <img src="" alt="Hawadh Dev">&emsp;&emsp;&emsp; Portfolio (COMING SOON)
+    <img src="" alt="Hawadh Dev"> Portfolio (COMING SOON)
   </a>
 </p>
 
