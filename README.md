@@ -116,7 +116,7 @@
 </div><br>
 
 <div align="center">
-  <img src="https://www.codewars.com/users/MisterTooh/badges/large" />
+  <img src="https://www.codewars.com/users/hawadh/badges/large" />
 </div>
 <br><br>
 
