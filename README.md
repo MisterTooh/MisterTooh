@@ -146,9 +146,10 @@
 |   21   | [**CPP06**] |                    C++                 | [![hawadh's 42 CPP Module 06 Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2931805)](https://github.com/JaeSeoKim/badge42)|
 |   22   | [**CPP07**] |                    C++                 | [![hawadh's 42 CPP Module 07 Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/3031594)](https://github.com/JaeSeoKim/badge42)|
 |   23   | [**CPP08**] |                    C++                 | [![hawadh's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/3032989)](https://github.com/JaeSeoKim/badge42)|
-|   24   | [**Netpractice**] |           Network/IP             | [![hawadh's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2706008)](https://github.com/JaeSeoKim/badge42)|
-|   23   | [**Exam Rank 05**] |             C++                 | [![hawadh's 42 Exam Rank 05 Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/3078377)](https://github.com/JaeSeoKim/badge42)|
-|   24   | [**ft_irc**] |                   C++                 | [![hawadh's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/3027254)](https://github.com/JaeSeoKim/badge42)|
-|   25   | [**Inception**] |          Sys Admin & Deployment    | [![hawadh's 42 Inception Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/3061108)](https://github.com/JaeSeoKim/badge42)
+|   24   | [**CPP09**] |                    C++                 | [![hawadh's 42 CPP Module 09 Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/3132190)](https://github.com/JaeSeoKim/badge42)|
+|   25   | [**Netpractice**] |           Network/IP             | [![hawadh's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2706008)](https://github.com/JaeSeoKim/badge42)|
+|   26   | [**Exam Rank 05**] |             C++                 | [![hawadh's 42 Exam Rank 05 Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/3078377)](https://github.com/JaeSeoKim/badge42)|
+|   27   | [**ft_irc**] |                   C++                 | [![hawadh's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/3027254)](https://github.com/JaeSeoKim/badge42)|
+|   28   | [**Inception**] |          Sys Admin & Deployment    | [![hawadh's 42 Inception Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/3061108)](https://github.com/JaeSeoKim/badge42)
 
 All code is placed in a private repository for IP.
